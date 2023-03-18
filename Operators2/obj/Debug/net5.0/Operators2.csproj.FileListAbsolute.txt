@@ -1,0 +1,16 @@
+C:\Users\Robz PC\repos\Operators2\Operators2\bin\Debug\net5.0\Operators2.exe
+C:\Users\Robz PC\repos\Operators2\Operators2\bin\Debug\net5.0\Operators2.deps.json
+C:\Users\Robz PC\repos\Operators2\Operators2\bin\Debug\net5.0\Operators2.runtimeconfig.json
+C:\Users\Robz PC\repos\Operators2\Operators2\bin\Debug\net5.0\Operators2.runtimeconfig.dev.json
+C:\Users\Robz PC\repos\Operators2\Operators2\bin\Debug\net5.0\Operators2.dll
+C:\Users\Robz PC\repos\Operators2\Operators2\bin\Debug\net5.0\ref\Operators2.dll
+C:\Users\Robz PC\repos\Operators2\Operators2\bin\Debug\net5.0\Operators2.pdb
+C:\Users\Robz PC\repos\Operators2\Operators2\obj\Debug\net5.0\Operators2.csproj.AssemblyReference.cache
+C:\Users\Robz PC\repos\Operators2\Operators2\obj\Debug\net5.0\Operators2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robz PC\repos\Operators2\Operators2\obj\Debug\net5.0\Operators2.AssemblyInfoInputs.cache
+C:\Users\Robz PC\repos\Operators2\Operators2\obj\Debug\net5.0\Operators2.AssemblyInfo.cs
+C:\Users\Robz PC\repos\Operators2\Operators2\obj\Debug\net5.0\Operators2.csproj.CoreCompileInputs.cache
+C:\Users\Robz PC\repos\Operators2\Operators2\obj\Debug\net5.0\Operators2.dll
+C:\Users\Robz PC\repos\Operators2\Operators2\obj\Debug\net5.0\ref\Operators2.dll
+C:\Users\Robz PC\repos\Operators2\Operators2\obj\Debug\net5.0\Operators2.pdb
+C:\Users\Robz PC\repos\Operators2\Operators2\obj\Debug\net5.0\Operators2.genruntimeconfig.cache
